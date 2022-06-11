@@ -1,0 +1,22 @@
+.choose-text-area{
+    width: 60%;
+    text-align: left;
+    margin: 20px 20px;
+}
+.card-area{
+    margin: 25px auto;
+}
+.card-item{
+   border: none;
+   text-align: left;
+}
+.card-item:hover{
+    box-shadow: 3px 3px 7px rgb(211, 211, 211);
+}
+.card-icon{
+    margin-right: 10px;
+    color: rgb(224, 16, 16);
+}
+.see-more-icon{
+    margin-left: 5px;
+}

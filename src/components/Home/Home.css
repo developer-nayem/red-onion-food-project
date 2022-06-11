@@ -1,0 +1,21 @@
+.navbar-brand img{
+    width: 150px;
+    height: 40px;
+}
+.sign-up-button{
+    width: 120px;
+    border-radius: 30px;
+}
+.login{
+    margin: 5px 10px;
+    padding: 5px 10px;
+    font-size: 20px;
+    font: bold;
+}
+.login:hover{
+    color: red;
+}
+.cart-icon{
+    margin: 5px;
+    color: black;
+}

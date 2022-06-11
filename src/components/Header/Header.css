@@ -1,0 +1,42 @@
+
+.header{
+    background-image: url(../../images/bannerbackground.png);
+    height: 400px;
+    background-position: center;
+    background-size: 110%;
+    background-origin: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.search-area{
+    width: 80%;
+    height: 50px;
+    margin: 10px auto;
+    font-size: small;
+}
+.search-item{
+    width: 80%;
+    background-color: white;
+    color: black;
+    padding: 8px 8px 8px 25px;
+    border-radius: 30px 0px 0px 30px;
+    border: none;
+    outline: none;
+}
+.search-button{
+    width: 20%;
+    background-color: rgb(214, 30, 30);
+    color: white;
+    padding: 8px;
+    border-radius: 0px 30px 30px 0px;
+    border: none;
+    cursor: pointer;
+}
+.search-button:focus{
+    outline: none;
+}
+.search-button:hover{
+    background-color: rgb(185, 30, 30);
+}
